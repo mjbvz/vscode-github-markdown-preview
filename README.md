@@ -10,11 +10,11 @@ This is an extension pack of the following VS Code markdown preview extensions. 
 
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) — CSS that makes the preview match Github's markdown style.
 
-- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) - Adds `:emoji:` support to the markdown preview.
+- [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) — Adds `:emoji:` support to the markdown preview.
 
-- [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) - Adds `- [ ] tasklist` support to the markdown preview
+- [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) — Adds `- [ ] tasklist` support to the markdown preview
 
-- [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble) - Adds support for rendering the yaml frontmatter as a table. Be sure to set `"markdown.previewFrontMatter": "show"`
+- [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble) — Adds support for rendering the yaml frontmatter as a table. Be sure to set `"markdown.previewFrontMatter": "show"`
 
 # Usage
 
