@@ -2,8 +2,8 @@
   "name": "github-markdown-preview",
   "private": true,
   "version": "0.0.2",
-  "displayName": "Github Markdown Preview",
-  "description": "Changes VS Code's built-in markdown preview to match Github",
+  "displayName": "GitHub Markdown Preview",
+  "description": "Changes VS Code's built-in markdown preview to match GitHub",
   "keywords": [
     "markdown",
     "style",

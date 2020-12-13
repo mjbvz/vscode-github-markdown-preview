@@ -1,6 +1,6 @@
 [![](https://vsmarketplacebadge.apphb.com/version/bierner.github-markdown-preview.svg)](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
-Changes VS Code's built-in markdown preview to match Github markdown rendering in style and content 
+Changes VS Code's built-in markdown preview to match GitHub markdown rendering in style and content 
 
 ![](https://github.com/mjbvz/vscode-github-markdown-preview-style/raw/master/docs/example.png)
 
@@ -8,7 +8,7 @@ Changes VS Code's built-in markdown preview to match Github markdown rendering i
 
 This is an extension pack of the following VS Code markdown preview extensions. These extensions can be installed individually:
 
-- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) — CSS that makes the preview match Github's markdown style.
+- [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) — CSS that makes the preview match GitHub's markdown style.
 
 - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) — Adds `:emoji:` support to the markdown preview.
 
