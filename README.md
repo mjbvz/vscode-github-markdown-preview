@@ -1,6 +1,6 @@
 [![](https://vsmarketplacebadge.apphb.com/version/bierner.github-markdown-preview.svg)](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
-Changes VS Code's built-in markdown preview to match GitHub markdown rendering in style and content 
+Changes VS Code's built-in markdown preview to match GitHub markdown rendering in style and content
 
 ![](https://github.com/mjbvz/vscode-github-markdown-preview-style/raw/master/docs/example.png)
 
