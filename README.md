@@ -1,6 +1,6 @@
 [![](https://vsmarketplacebadge.apphb.com/version/bierner.github-markdown-preview.svg)](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
-Changes VS Code's built-in markdown preview to match GitHub markdown rendering in style and content 
+Changes VS Code's built-in markdown preview to match GitHub markdown rendering in style and content
 
 ![](https://github.com/mjbvz/vscode-github-markdown-preview-style/raw/master/docs/example.png)
 
@@ -12,9 +12,11 @@ This is an extension pack of the following VS Code markdown preview extensions. 
 
 - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) — Adds `:emoji:` support to the markdown preview.
 
-- [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) — Adds `- [ ] tasklist` support to the markdown preview
+- [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox) — Adds `- [ ] tasklist` support to the markdown preview.
 
-- [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble) — Adds support for rendering the yaml frontmatter as a table. Be sure to set `"markdown.previewFrontMatter": "show"`
+- [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble) — Adds support for rendering the yaml frontmatter as a table. Be sure to set `"markdown.previewFrontMatter": "show"`.
+
+- [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview.
 
 # Usage
 
