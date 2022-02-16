@@ -16,7 +16,7 @@ This is an extension pack of the following VS Code markdown preview extensions. 
 
 - [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble) — Adds support for rendering the yaml frontmatter as a table. Be sure to set `"markdown.previewFrontMatter": "show"`.
 
-- [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview.
+- [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) - Adds `[^1]` footnote syntax support to VS Code's built-in Markdown preview.
 
 # Usage
 
