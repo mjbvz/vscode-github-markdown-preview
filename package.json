@@ -1,7 +1,7 @@
 {
   "name": "github-markdown-preview",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "displayName": "GitHub Markdown Preview",
   "description": "Changes VS Code's built-in markdown preview to match GitHub",
   "keywords": [
@@ -32,6 +32,7 @@
     "bierner.markdown-emoji",
     "bierner.markdown-checkbox",
     "bierner.markdown-yaml-preamble",
-    "bierner.markdown-footnotes"
+    "bierner.markdown-footnotes",
+    "bierner.markdown-mermaid"
   ]
 }
