@@ -18,7 +18,7 @@ This is an extension pack of the following VS Code markdown preview extensions. 
 
 - [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) - Adds `[^1]` footnote syntax support to VS Code's built-in Markdown preview.
 
-- [Markdown Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid&ssr=false#review-details) - Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview
+- [Markdown Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid&ssr=false#review-details) - Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview.
 
 # Usage
 
