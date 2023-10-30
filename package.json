@@ -33,6 +33,7 @@
     "bierner.markdown-checkbox",
     "bierner.markdown-yaml-preamble",
     "bierner.markdown-footnotes",
-    "bierner.markdown-mermaid"
+    "bierner.markdown-mermaid",
+    "yahyabatulu.vscode-markdown-alert"
   ]
 }
