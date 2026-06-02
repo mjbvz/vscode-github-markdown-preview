@@ -1,7 +1,7 @@
 {
   "name": "github-markdown-preview",
   "private": true,
-  "version": "0.3.0",
+  "version": "0.4.0",
   "displayName": "GitHub Markdown Preview",
   "description": "Changes VS Code's built-in markdown preview to match GitHub",
   "keywords": [
@@ -21,7 +21,7 @@
     "url": "https://github.com/mjbvz/vscode-github-markdown-preview/issues"
   },
   "engines": {
-    "vscode": "^1.28.0"
+    "vscode": "^1.122.0"
   },
   "categories": [
     "Other",
@@ -31,8 +31,6 @@
     "bierner.markdown-preview-github-styles",
     "bierner.markdown-emoji",
     "bierner.markdown-checkbox",
-    "bierner.markdown-yaml-preamble",
-    "bierner.markdown-footnotes",
-    "bierner.markdown-mermaid"
+    "bierner.markdown-footnotes"
   ]
 }

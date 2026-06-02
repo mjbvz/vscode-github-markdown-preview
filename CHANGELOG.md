@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.4.0 — June 2, 2026
+- Remove Mermaid and Preamble as they are now built-in to recent VS Code versions
+
 ## 0.3.0 — May 2, 2022
 - Add mermaid extension.
 
